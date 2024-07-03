@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="7" failures="0" errors="0" time="42.048">
+  <testsuite name="GET /doctor/getdoc/:id" errors="0" failures="0" skipped="0" timestamp="2024-05-02T03:46:16" time="40.941" tests="2">
+    <testcase classname="GET /doctor/getdoc/:id should return doctor details when a valid id is provided" name="GET /doctor/getdoc/:id should return doctor details when a valid id is provided" time="0.076">
+    </testcase>
+    <testcase classname="GET /doctor/getdoc/:id should return 404 error when doctor is not found" name="GET /doctor/getdoc/:id should return 404 error when doctor is not found" time="0.016">
+    </testcase>
+  </testsuite>
+  <testsuite name="getAllUsers route" errors="0" failures="0" skipped="0" timestamp="2024-05-02T03:46:16" time="40.952" tests="3">
+    <testcase classname="getAllUsers route should fetch all users except admin with no query parameters" name="getAllUsers route should fetch all users except admin with no query parameters" time="0.071">
+    </testcase>
+    <testcase classname="getAllUsers route should fetch all active users" name="getAllUsers route should fetch all active users" time="0.018">
+    </testcase>
+    <testcase classname="getAllUsers route should handle errors when fetching users" name="getAllUsers route should handle errors when fetching users" time="0.016">
+    </testcase>
+  </testsuite>
+  <testsuite name="GET /medicine/getMedicines" errors="0" failures="0" skipped="0" timestamp="2024-05-02T03:46:16" time="40.984" tests="2">
+    <testcase classname="GET /medicine/getMedicines should return all medicines when request is successful" name="GET /medicine/getMedicines should return all medicines when request is successful" time="0.085">
+    </testcase>
+    <testcase classname="GET /medicine/getMedicines should return 500 Internal Server Error when request fails" name="GET /medicine/getMedicines should return 500 Internal Server Error when request fails" time="0.022">
+    </testcase>
+  </testsuite>
+</testsuites>
