@@ -1,58 +1,46 @@
+<h1 align="center" id="title">MEDICARE</h1>
+<p align="center"><img src="https://socialify.git.ci/vivekadapa/MEDICARE-v2/image?language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;theme=Auto" alt="project-image"></p>
+<p id="description">Welcome to the Medicare Healthcare Website! Our platform aims to provide accessible and affordable healthcare services to individuals and families. This README.md file provides an overview of the project its contents installation instructions and features. The Medicare Healthcare Website is designed to make it easier for users to find healthcare resources and medical providers. It offers various functionalities such as booking appointments reading health-related blogs contacting the team and learning about the platform's mission.</p>
 
-# Medicare - Your Trusted Healthcare Companion
+<h2>🚀 Demo</h2>
 
-Welcome to the Medicare Healthcare Website! Our platform aims to provide accessible and affordable healthcare services to individuals and families. This README.md file provides an overview of the project, its contents, installation instructions, and features.
+[https://medicare-project-seven.vercel.app/](https://medicare-project-seven.vercel.app/)
 
-## Project Overview
+  
+  
+<h2>🧐 Features</h2>
 
-The Medicare Healthcare Website is designed to make it easier for users to find healthcare resources and medical providers. It offers various functionalities such as booking appointments, reading health-related blogs, contacting the team, and learning about the platform's mission.
+Here're some of the project's best features:
 
-## Installation
+*   Admin can manage users and medical providers in the platform.
+*   Users can book appointments with medical providers on the platform.
+*   User can rate and write reviews their experience with medical provider.
+*   User can buy medicines in the platform.
+*   Medical Providers can accept or reject the incoming appointments.
+*   Medical Providers can manage their available time slots everyday.
+*   Admin can manage all the activity in the platform from blocking users to approving doctors.
 
-To run the Medicare Healthcare Website, follow these steps:
+<h2>🛠️ Installation Steps:</h2>
 
-1. Install the required packages by running the following command in client and server folder:
+<p>1. To run the Medicare Healthcare Website follow these steps: Install the required packages by running the following command in client and server folder:</p>
 
-```bash
+```
 npm install 
 ```
 
-2. Start the application by running one of the following commands:
+<p>2. Start the application by running one of the following commands:</p>
 
-```bash
+```
 npm run both
 ```
 
+  
+<h2>💻 Built with</h2>
 
+Technologies used in the project:
 
-## How to Use the Project
-
-To use the Medicare Healthcare Website, users need to register first. After registration, they can log in to access all the functionalities on the home page. The home page provides links to different sections of the website, including booking appointments, reading blogs, contacting the team, and learning about the platform.
-
-## Contributors
-
-The project was developed by the following participants:
-
-1. Anjali Kumari (S20210010021)
-2. Sai Deepthi (S20210010166)
-3. Vivek Chaitanya (S20210010007)
-4. Udaykiran Karra (S20210010112)
-5. Likitha Lakshmi (S20210010024)
-
-## Features
-
-The Medicare Healthcare Website offers the following features:
-
-1. Booking Appointments: Users can book appointments with medical providers directly from the website.
-
-2. Blogs: The blog section provides helpful health tips, information about the latest medical research, and expert advice on various health topics.
-
-3. Medicine Store: Users can find information about medicines  and access medications easily.
-
-4. Nearby Hospitals: Users can find information about nearby hospitals to quickly locate emergency medical services.
-
-5. Contact Us: Users can get in touch with the team if they have any questions, comments, or concerns about the website or services.
-
-6. About Us: The "About Us" section provides information about the platform and its mission to provide accessible and affordable healthcare services.
-
-Thank you for choosing the Medicare Healthcare Website! For any further assistance or inquiries, please refer to the contact information on the website.
+*   React
+*   Nodejs
+*   MongoDB
+*   Express
+*   Tailwind
